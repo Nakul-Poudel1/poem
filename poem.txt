@@ -7,5 +7,6 @@ orange
 red
 green
 pink
+white
 purple
 The unicorn
