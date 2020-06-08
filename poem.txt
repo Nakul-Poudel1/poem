@@ -5,6 +5,7 @@ violet
 indigo
 orange
 Recycle
+haha
 red
 green
 pink
