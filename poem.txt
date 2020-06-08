@@ -1,0 +1,8 @@
+the color of rainbow are:
+yellow 
+blue
+violet
+indigo
+orange
+red
+green
