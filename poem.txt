@@ -6,3 +6,4 @@ indigo
 orange
 red
 green
+pink
