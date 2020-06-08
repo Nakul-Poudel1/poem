@@ -4,6 +4,7 @@ blue
 violet
 indigo
 orange
+Recycle
 red
 green
 pink
